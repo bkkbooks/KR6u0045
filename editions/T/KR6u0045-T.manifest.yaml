@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6u0045/T/v1
+canonical_location: https://kanripo.org/bkk/KR6u0045/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 地藏菩薩經
+  identifiers:
+    krp: KR6u0045
+    cbeta: T85n2909
+    cbeta_old_id: T85n2909
+    authorityid: CA0004922
+    json_key: T2909
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2909.xml
+    old_id: T85n2909
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6u0045_000-T.yaml, hash: 'sha256:876c5416ddfe5d4fd9a605ce6f3c1e9a5d6553c969c62417ee360f04e703dc8d'}
+  - {seq: 1, filename: KR6u0045_001-T.yaml, hash: 'sha256:52618e372d3acf39f8b969eba1b4732347e47b318bcb68d4bcfd73c1ad47166c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6u0045_000-T.markers.yaml, hash: 'sha256:5ccd7818e83708ca9d80104b4a4c4acda65f8b208251ded865de500cb636d72d'}
+  - {seq: 1, role: markers, filename: assets/KR6u0045_001-T.markers.yaml, hash: 'sha256:ee2d2ebb5e242fc950d824fc744e8d7561d509d81735b2bcd79e743ad14d8466'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6u0045_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 257
+  label: 佛說地藏菩薩經
+  type: juan
+  level: 1
+hash: sha256:6cb0df715dd93649f73c8684eb33c4733a24f61d147c0fd119f0b5d17aefaf50

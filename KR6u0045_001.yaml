@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6u0045/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 爾時地藏菩薩住在南方琉璃世界以淨天眼觀地獄之中受苦衆生鐵碓搗鐵磨磨鐵犁耕鐵鋸解鑊湯湧沸猛火旦天飢則吞熱鐵丸渴飲銅汁受諸苦惱無有休息地藏菩薩不忍見之即從南方來到地獄中與閻羅王共同一處別床而座有四種因緣一者恐閻羅王斷罪不憑二者恐文案交錯三者未合死四者受罪了出地獄池邊若有善男子善女人造地藏菩薩像寫地藏菩薩經及念地藏菩薩名此人定得往生西方極樂世界從一佛國至一佛國從一天堂至一天堂若有人造地藏菩薩像寫地藏菩薩經及念地藏菩薩名此人定得往生西方極樂世界此人捨命之日地藏菩薩親自來迎常得與地藏菩薩共同一處聞佛所說皆大歡喜信受奉行
+  hash: sha256:d240428d1fa53b8d8f269e432118c951f2bdf8dbd728fe249a7a0aa7603c36ff
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 佛說地藏菩薩經, id: KR6u0045_T_001-juan-start, juan_n: '001', jhead: 佛說地藏菩薩經}
+  - {type: 'cbeta:juan-end', offset: 257, content: 佛說地藏菩薩經一卷, id: KR6u0045_T_001-juan-end, juan_n: '001', jhead: 佛說地藏菩薩經一卷}
+metadata:
+  title: 地藏菩薩經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2909.xml
+    old_id: T85n2909
+hash: sha256:0fcc43f577b62a6018271a600c44c37f9629318e047363edfe486a30dfa7a8be

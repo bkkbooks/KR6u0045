@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6u0045/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 地藏菩薩經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2909.xml
+    old_id: T85n2909
+hash: sha256:876c5416ddfe5d4fd9a605ce6f3c1e9a5d6553c969c62417ee360f04e703dc8d
