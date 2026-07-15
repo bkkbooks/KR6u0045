@@ -6,9 +6,12 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR6u0045_T_001-1455b24, ed: T, 'n': 1455b24}
   - {type: line-break, offset: 0, content: '', id: KR6u0045_T_001-1455b25, ed: T, 'n': 1455b25}
   - {type: xml-element, offset: 0, content: '', id: pT85p1455b2501, name: p, role: open, attrs: {'xml:id': pT85p1455b2501}}
+  - {type: substitution, offset: 10, original: 瑠, replacement: 琉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17263}}
   - {type: punctuation, offset: 14, content: 。, id: KR6u0045_T_001-bkkpn1}
   - {type: line-break, offset: 17, content: '', id: KR6u0045_T_001-1455b26, ed: T, 'n': 1455b26}
+  - {type: substitution, offset: 25, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 27, content: 。, id: KR6u0045_T_001-bkkpn2}
+  - {type: substitution, offset: 29, original: 擣, replacement: 搗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17087}}
   - {type: line-break, offset: 34, content: '', id: KR6u0045_T_001-1455b27, ed: T, 'n': 1455b27}
   - {type: punctuation, offset: 39, content: 。, id: KR6u0045_T_001-bkkpn3}
   - {type: punctuation, offset: 47, content: 。, id: KR6u0045_T_001-bkkpn4}
@@ -50,9 +53,10 @@ markers:
   - {type: punctuation, offset: 234, content: 。, id: KR6u0045_T_001-bkkpn28}
   - {type: line-break, offset: 237, content: '', id: KR6u0045_T_001-1455c10, ed: T, 'n': 1455c10}
   - {type: punctuation, offset: 245, content: 。, id: KR6u0045_T_001-bkkpn29}
+  - {type: substitution, offset: 248, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: line-break, offset: 254, content: '', id: KR6u0045_T_001-1455c11, ed: T, 'n': 1455c11}
   - {type: punctuation, offset: 257, content: 。, id: KR6u0045_T_001-bkkpn30}
   - {type: xml-element, offset: 257, content: '', id: pT85p1455b2501_end, name: p, role: close, attrs: {'xml:id': pT85p1455b2501}}
   - {type: line-break, offset: 257, content: '', id: KR6u0045_T_001-1455c12, ed: T, 'n': 1455c12}
   back: []
-hash: sha256:4772d0e8127cc179f686ebe06b88e9d59ab1bfeb62a59e7e7bc467cc363fc259
+hash: sha256:6f658d8c79a784193b9b47579da7102a15ba2ceda2a7d83c92bd56c7dd895849
